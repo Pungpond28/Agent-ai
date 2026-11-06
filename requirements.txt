@@ -1,0 +1,9 @@
+streamlit>=1.39.0
+pyautogui
+psutil
+pyperclip
+google-genai
+pillow
+speechrecognition
+youtube-transcript-api
+screen-brightness-control
